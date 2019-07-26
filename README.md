@@ -1,4 +1,4 @@
- CO22 - Numerical Solution of Schrodinger's Equation
+ <pre> CO22 - Numerical Solution of Schrodinger's Equation
 ---------------------------------------------------- 
  by ANTIOCHIAN 2k19 // Lets All Love Lain
 ---------------------------------------------------- 
@@ -21,4 +21,5 @@ Synopsis:
 
 Sample Use:  CO22 (0.05 , 5 , 1 , 3)
 Sample Output:
+</pre>
 ![Sample Output](Sample_Output.png)
