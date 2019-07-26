@@ -21,4 +21,4 @@ Synopsis:
 
 Sample Use:  CO22 (0.05 , 5 , 1 , 3)
 Sample Output:
-[[https://github.com/Antiochian/schrodinger-solver/blob/master/Sample_Output.png]]
+![Sample Output](https://github.com/Antiochian/schrodinger-solver/blob/master/Sample_Output.png)
