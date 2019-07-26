@@ -1,6 +1,6 @@
  CO22 - Numerical Solution of Schrodinger's Equation
 ---------------------------------------------------- 
- by HEIRON 2k19 // Lets All Love Lain
+ by ANTIOCHIAN 2k19 // Lets All Love Lain
 ---------------------------------------------------- 
 Synopsis:
         CO22(delta, maximum x, order, Approximate Energy);
@@ -17,6 +17,8 @@ Synopsis:
      -E0:    the energy level, can be approximate
 
    Output:
-     -none except graph
+     -none except for graph
 
 Sample Use:  CO22 (0.05 , 5 , 1 , 3)
+Sample Output:
+[[https://github.com/Antiochian/schrodinger-solver/blob/master/Sample_Output.png]]
